@@ -38,3 +38,5 @@ https://www.bankofengland.co.uk/sitemap/speeches
 *TBC*
 
 https://www.ecb.europa.eu/press/key/html/downloads.en.html
+
+https://www.ecb.europa.eu/press/key/shared/data/all_ECB_speeches.csv
